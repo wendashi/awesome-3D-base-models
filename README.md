@@ -2,15 +2,21 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wendashi/awesome-3D-base-models)
 
 # awesome-3D-base-models
-Similar to the 2D Base Model (Stable Diffusion, Flux) that builds a bridge between text and images, the 3D Base Model is a bridge between images and 3D data.
-
-### Papers
+Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a bridge between text and images, the 3D Base Model is a bridge between images and 3D data.
    
-# Flow-matching DiT
-1. [Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) (Jan 21, 2025)
+## Flow-matching DiT
+1. [Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) (Jan, 2025)
     <a href="https://github.com/Tencent-Hunyuan/Hunyuan3D-2" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-2.svg?style=social" alt="Stars">
    </a>
-3. https://github.com/VAST-AI-Research/TripoSG
-4. https://github.com/stepfun-ai/Step1X-3D
+2. [TripoSG](https://github.com/VAST-AI-Research/TripoSG) (March, 2025)
+   <a href="https://github.com/VAST-AI-Research/TripoSG" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/VAST-AI-Research/TripoSG.svg?style=social" alt="Stars">
+   </a>
+3. [Step1X-3D](https://github.com/stepfun-ai/Step1X-3D) (May, 2025) with training code & dataset!
+   <a href="https://github.com/stepfun-ai/Step1X-3D" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/stepfun-ai/Step1X-3D.svg?style=social" alt="Stars">
+   </a>
