@@ -56,3 +56,11 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Seed3D/Dora.svg?style=social" alt="Stars">
    </a>
+
+
+## Acceleration
+1. [FlashVDM](https://github.com/Tencent-Hunyuan/FlashVDM)(Mar, 2025)
+   <a href="https://github.com/Tencent-Hunyuan/FlashVDM" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/FlashVDM.svg?style=social" alt="Stars">
+   </a> 
