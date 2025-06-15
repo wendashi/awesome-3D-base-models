@@ -64,3 +64,10 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/FlashVDM.svg?style=social" alt="Stars">
    </a> 
+
+## Textrue
+1. [TEXGen](https://github.com/CVMI-Lab/TEXGen)(Dec, 2024)
+   <a href="https://github.com/CVMI-Lab/TEXGen" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/CVMI-Lab/TEXGen.svg?style=social" alt="Stars">
+   </a> 
