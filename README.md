@@ -5,17 +5,22 @@
 Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a bridge between text and images, the 3D Base Model is a bridge between images and 3D data.
    
 ## Flow-matching DiT
-1. [Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) (Jan, 2025)
+1. [Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1)(June, 2025)
+   <a href="https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-2.1.svg?style=social" alt="Stars">
+   </a>
+2. [Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) (Jan, 2025)
     <a href="https://github.com/Tencent-Hunyuan/Hunyuan3D-2" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-2.svg?style=social" alt="Stars">
    </a>
-2. [TripoSG](https://github.com/VAST-AI-Research/TripoSG) (March, 2025)
+3. [TripoSG](https://github.com/VAST-AI-Research/TripoSG) (March, 2025)
    <a href="https://github.com/VAST-AI-Research/TripoSG" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/VAST-AI-Research/TripoSG.svg?style=social" alt="Stars">
    </a>
-3. [Step1X-3D](https://github.com/stepfun-ai/Step1X-3D) (May, 2025) with training code & dataset!
+4. [Step1X-3D](https://github.com/stepfun-ai/Step1X-3D) (May, 2025) with training code & dataset!
    <a href="https://github.com/stepfun-ai/Step1X-3D" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/stepfun-ai/Step1X-3D.svg?style=social" alt="Stars">
@@ -32,4 +37,22 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
    <a href="https://github.com/Stable-X/Stable3DGen" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Stable-X/Stable3DGen.svg?style=social" alt="Stars">
+   </a>
+
+
+## VAE
+1. [Sparc3D](https://github.com/lizhihao6/Sparc3D)(June, 2025)
+   <a href="https://github.com/lizhihao6/Sparc3D" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/lizhihao6/Sparc3D.svg?style=social" alt="Stars">
+   </a>
+2. [TripoSF](https://github.com/VAST-AI-Research/TripoSF)(Mar, 2025)
+   <a href="https://github.com/VAST-AI-Research/TripoSF" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/VAST-AI-Research/TripoSF.svg?style=social" alt="Stars">
+   </a>
+3. [Dora](https://github.com/Seed3D/Dora)(Feb, 2025, CVPR25)
+   <a href="https://github.com/Seed3D/Dora" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/Seed3D/Dora.svg?style=social" alt="Stars">
    </a>
