@@ -5,7 +5,7 @@
 Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a bridge between text and images, the 3D Base Model is a bridge between images and 3D data.
    
 ## Flow-matching DiT
-1. [Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1)(June, 2025)
+1. [Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1)(Jun, 2025)
    <a href="https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-2.1.svg?style=social" alt="Stars">
@@ -15,7 +15,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-2.svg?style=social" alt="Stars">
    </a>
-3. [TripoSG](https://github.com/VAST-AI-Research/TripoSG) (March, 2025)
+3. [TripoSG](https://github.com/VAST-AI-Research/TripoSG) (Mar, 2025)
    <a href="https://github.com/VAST-AI-Research/TripoSG" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/VAST-AI-Research/TripoSG.svg?style=social" alt="Stars">
@@ -33,7 +33,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/microsoft/TRELLIS.svg?style=social" alt="Stars">
    </a>
-2. [Hi3DGen](https://github.com/Stable-X/Stable3DGen) (April, 2025)
+2. [Hi3DGen](https://github.com/Stable-X/Stable3DGen) (Apr, 2025)
    <a href="https://github.com/Stable-X/Stable3DGen" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Stable-X/Stable3DGen.svg?style=social" alt="Stars">
@@ -41,7 +41,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
 
 
 ## VAE
-1. [Sparc3D](https://github.com/lizhihao6/Sparc3D)(June, 2025)
+1. [Sparc3D](https://github.com/lizhihao6/Sparc3D)(Jun, 2025)
    <a href="https://github.com/lizhihao6/Sparc3D" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/lizhihao6/Sparc3D.svg?style=social" alt="Stars">
