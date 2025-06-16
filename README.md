@@ -28,7 +28,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
 
 
 ## Flow-matching Transformer
-1. [TRELLIS](https://github.com/microsoft/TRELLIS) (Dec, 2024, CVPR25)
+1. [TRELLIS](https://github.com/microsoft/TRELLIS) (Dec, 2024, CVPR 2025)
    <a href="https://github.com/microsoft/TRELLIS" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/microsoft/TRELLIS.svg?style=social" alt="Stars">
@@ -66,12 +66,13 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
    </a> 
 
 ## Textrue
-1. [SyncMVD](https://github.com/LIU-Yuxin/SyncMVD)(Dec, 2024, SIGGRAPH Asia 2024)
+1. [ARM](https://arm-aigc.github.io/)(CVPR 2025) 
+2. [SyncMVD](https://github.com/LIU-Yuxin/SyncMVD)(Dec, 2024, SIGGRAPH Asia 2024)
    <a href="https://github.com/LIU-Yuxin/SyncMVD" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/LIU-Yuxin/SyncMVD.svg?style=social" alt="Stars">
    </a> 
-2. [TEXGen](https://github.com/CVMI-Lab/TEXGen)(Dec, 2024, SIGGRAPH Asia 2024)
+3. [TEXGen](https://github.com/CVMI-Lab/TEXGen)(Dec, 2024, SIGGRAPH Asia 2024)
    <a href="https://github.com/CVMI-Lab/TEXGen" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/CVMI-Lab/TEXGen.svg?style=social" alt="Stars">
