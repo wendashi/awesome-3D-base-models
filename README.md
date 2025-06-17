@@ -84,10 +84,16 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
 
 ## Common Metrics
 For mesh
-1. ULIP-T(⬆)
-2. ULIP-I(⬆)
-3. Uni3D-T(⬆)
-4. Uni3D-I(⬆)
+1. ULIP-T(⬆), ULIP-I(⬆), [ULIP](https://github.com/salesforce/ULIP)
+   <a href="https://github.com/salesforce/ULIP" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/salesforce/ULIP.svg?style=social" alt="Stars">
+   </a>
+2. Uni3D-T(⬆), Uni3D-I(⬆), [Uni3D](https://github.com/baaivision/Uni3D)
+   <a href="https://github.com/baaivision/Uni3D" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/baaivision/Uni3D.svg?style=social" alt="Stars">
+   </a>
 
 For texture
 1. CLIP-FiD(⬇)
