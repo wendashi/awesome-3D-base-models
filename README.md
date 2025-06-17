@@ -80,4 +80,17 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
    <a href="https://github.com/CVMI-Lab/TEXGen" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/CVMI-Lab/TEXGen.svg?style=social" alt="Stars">
-   </a> 
+   </a>
+
+## Common Metrics
+For mesh
+1. ULIP-T(⬆)
+2. ULIP-I(⬆)
+3. Uni3D-T(⬆)
+4. Uni3D-I(⬆)
+
+For texture
+1. CLIP-FiD(⬇)
+2. CMMD(⬇)
+3. CLIP-I(⬆)
+4. LPIPS(⬇)
