@@ -92,7 +92,7 @@ For mesh
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/baaivision/Uni3D.svg?style=social" alt="Stars">
    </a>
-3. Chamfer Distance (CD) and Normal Consistency (NC) quantify the geometric similarity between reconstructed and ground-truth meshes.
+3. Chamfer Distance (CD⬇) and Normal Consistency (NC⬆) quantify the geometric similarity between reconstructed and ground-truth meshes.
 
 For texture
 1. CLIP-FiD(⬇)
