@@ -5,7 +5,7 @@
 Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a bridge between text and images, the 3D Base Model is a bridge between images and 3D data.
    
 ## Flow-matching DiT/Transformer
-1. [Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1)(Jun, 2025)
+1. [Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) (Jun, 2025)
    <a href="https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-2.1.svg?style=social" alt="Stars">
@@ -25,7 +25,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/stepfun-ai/Step1X-3D.svg?style=social" alt="Stars">
    </a>
-5. [Direct3D-S2](https://github.com/DreamTechAI/Direct3D-S2)(May, 2025)
+5. [Direct3D-S2](https://github.com/DreamTechAI/Direct3D-S2) (May, 2025)
    <a href="https://github.com/DreamTechAI/Direct3D-S2" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/DreamTechAI/Direct3D-S2.svg?style=social" alt="Stars">
@@ -43,17 +43,17 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
 
 
 ## VAE
-1. [Sparc3D](https://github.com/lizhihao6/Sparc3D)(Jun, 2025)
+1. [Sparc3D](https://github.com/lizhihao6/Sparc3D) (Jun, 2025)
    <a href="https://github.com/lizhihao6/Sparc3D" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/lizhihao6/Sparc3D.svg?style=social" alt="Stars">
    </a>
-2. [TripoSF](https://github.com/VAST-AI-Research/TripoSF)(Mar, 2025)
+2. [TripoSF](https://github.com/VAST-AI-Research/TripoSF) (Mar, 2025)
    <a href="https://github.com/VAST-AI-Research/TripoSF" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/VAST-AI-Research/TripoSF.svg?style=social" alt="Stars">
    </a>
-3. [Dora](https://github.com/Seed3D/Dora)(Feb, 2025, CVPR25)
+3. [Dora](https://github.com/Seed3D/Dora) (Feb, 2025, CVPR25)
    <a href="https://github.com/Seed3D/Dora" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Seed3D/Dora.svg?style=social" alt="Stars">
@@ -61,7 +61,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
 
 
 ## Acceleration
-1. [FlashVDM](https://github.com/Tencent-Hunyuan/FlashVDM)(Mar, 2025)
+1. [FlashVDM](https://github.com/Tencent-Hunyuan/FlashVDM) (Mar, 2025)
    <a href="https://github.com/Tencent-Hunyuan/FlashVDM" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/FlashVDM.svg?style=social" alt="Stars">
@@ -69,12 +69,12 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
 
 ## Textrue
 1. [ARM](https://arm-aigc.github.io/)(CVPR 2025) 
-2. [SyncMVD](https://github.com/LIU-Yuxin/SyncMVD)(Dec, 2024, SIGGRAPH Asia 2024)
+2. [SyncMVD](https://github.com/LIU-Yuxin/SyncMVD) (Dec, 2024, SIGGRAPH Asia 2024)
    <a href="https://github.com/LIU-Yuxin/SyncMVD" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/LIU-Yuxin/SyncMVD.svg?style=social" alt="Stars">
    </a> 
-3. [TEXGen](https://github.com/CVMI-Lab/TEXGen)(Dec, 2024, SIGGRAPH Asia 2024)
+3. [TEXGen](https://github.com/CVMI-Lab/TEXGen) (Dec, 2024, SIGGRAPH Asia 2024)
    <a href="https://github.com/CVMI-Lab/TEXGen" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/CVMI-Lab/TEXGen.svg?style=social" alt="Stars">
