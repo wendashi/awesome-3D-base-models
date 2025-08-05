@@ -5,37 +5,38 @@
 Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a bridge between text and images, the 3D Base Model is a bridge between images and 3D data.
    
 ## Flow-matching DiT/Transformer
-1. [Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) (Jun, 2025)
+1. [Ultra3D](https://buaacyw.github.io/ultra3d/) (Jul 2025)
+2. [Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) (Jun, 2025)
    <a href="https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-2.1.svg?style=social" alt="Stars">
    </a>
-2. [Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) (Jan, 2025)
+3. [Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) (Jan, 2025)
     <a href="https://github.com/Tencent-Hunyuan/Hunyuan3D-2" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-2.svg?style=social" alt="Stars">
    </a>
-3. [TripoSG](https://github.com/VAST-AI-Research/TripoSG) (Mar, 2025)
+4. [TripoSG](https://github.com/VAST-AI-Research/TripoSG) (Mar, 2025)
    <a href="https://github.com/VAST-AI-Research/TripoSG" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/VAST-AI-Research/TripoSG.svg?style=social" alt="Stars">
    </a>
-4. [Step1X-3D](https://github.com/stepfun-ai/Step1X-3D) (May, 2025) with training code & dataset!
+5. [Step1X-3D](https://github.com/stepfun-ai/Step1X-3D) (May, 2025) with training code & dataset!
    <a href="https://github.com/stepfun-ai/Step1X-3D" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/stepfun-ai/Step1X-3D.svg?style=social" alt="Stars">
    </a>
-5. [Direct3D-S2](https://github.com/DreamTechAI/Direct3D-S2) (May, 2025)
+6. [Direct3D-S2](https://github.com/DreamTechAI/Direct3D-S2) (May, 2025)
    <a href="https://github.com/DreamTechAI/Direct3D-S2" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/DreamTechAI/Direct3D-S2.svg?style=social" alt="Stars">
    </a>
-6. [TRELLIS](https://github.com/microsoft/TRELLIS) (Dec, 2024, CVPR 2025)
+7. [TRELLIS](https://github.com/microsoft/TRELLIS) (Dec, 2024, CVPR 2025)
    <a href="https://github.com/microsoft/TRELLIS" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/microsoft/TRELLIS.svg?style=social" alt="Stars">
    </a>
-7. [Hi3DGen](https://github.com/Stable-X/Stable3DGen) (Apr, 2025)
+8. [Hi3DGen](https://github.com/Stable-X/Stable3DGen) (Apr, 2025)
    <a href="https://github.com/Stable-X/Stable3DGen" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Stable-X/Stable3DGen.svg?style=social" alt="Stars">
