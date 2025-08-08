@@ -93,6 +93,7 @@ For mesh
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/baaivision/Uni3D.svg?style=social" alt="Stars">
    </a>
+   - code for ULIP/Uni3D: https://github.com/Tencent-Hunyuan/FlashVDM/blob/main/evaluation/app_metric.py
 3. Chamfer Distance (CD⬇) and Normal Consistency (NC⬆) quantify the geometric similarity between reconstructed/generated and ground-truth meshes.
 
 For texture
