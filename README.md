@@ -113,7 +113,7 @@ For texture
 4. LPIPS(⬇)
 
 
-## 3D Representation
+## 3D Representation (Lantent 3D)
 1. [Geometry Distributions (ICCV 2025)](https://github.com/1zb/GeomDist)
    <a href="https://github.com/1zb/GeomDist" title="GitHub Repo">
      <i class="fab fa-github"></i> 
