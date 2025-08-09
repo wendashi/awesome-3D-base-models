@@ -111,3 +111,16 @@ For texture
 2. CMMD(⬇)
 3. CLIP-I(⬆)
 4. LPIPS(⬇)
+
+
+## 3D Representation
+1. [Geometry Distributions (ICCV 2025)](https://github.com/1zb/GeomDist)
+   <a href="https://github.com/1zb/GeomDist" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/1zb/GeomDist.svg?style=social" alt="Stars">
+   </a>
+2. [VecSet (TOG 2023](https://github.com/1zb/3DShape2VecSet), Used by TRELLIS, Hunyuan3D, Step1X-3D)
+   <a href="https://github.com/1zb/3DShape2VecSet" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/1zb/3DShape2VecSet.svg?style=social" alt="Stars">
+   </a>
