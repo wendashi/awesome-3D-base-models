@@ -4,7 +4,7 @@
 # awesome-3D-base-models
 Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a bridge between text and images, the 3D Base Model is a bridge between images and 3D data.
    
-## Flow-matching DiT For 3D Mesh
+## Flow-matching DiT For Mesh Generation
 1. [Ultra3D](https://buaacyw.github.io/ultra3d/) (Jul 2025)
 2. [Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) (Jun, 2025)
    <a href="https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1" title="GitHub Repo">
@@ -43,7 +43,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
    </a>
 
 
-## VAE
+## VAE For Mesh Reconstruction
 1. [Sparc3D](https://github.com/lizhihao6/Sparc3D) (Jun, 2025)
    <a href="https://github.com/lizhihao6/Sparc3D" title="GitHub Repo">
      <i class="fab fa-github"></i> 
