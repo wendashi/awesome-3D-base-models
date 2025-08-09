@@ -21,7 +21,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/VAST-AI-Research/TripoSG.svg?style=social" alt="Stars">
    </a>
-5. [Step1X-3D](https://github.com/stepfun-ai/Step1X-3D) (May, 2025) with training code & dataset!
+5. [Step1X-3D](https://github.com/stepfun-ai/Step1X-3D) (May, 2025) with 🏋️training code & 🔥dataset!
    <a href="https://github.com/stepfun-ai/Step1X-3D" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/stepfun-ai/Step1X-3D.svg?style=social" alt="Stars">
