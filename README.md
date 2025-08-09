@@ -75,7 +75,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <img src="https://img.shields.io/github/stars/ZebinHe/MaterialMVP.svg?style=social" alt="Stars">
    </a>
 2. [RomanTex](https://github.com/oakshy/RomanTex) (ICCV 2025)
-  <a href="https://github.com/oakshy/RomanTex" title="GitHub Repo">
+   <a href="https://github.com/oakshy/RomanTex" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/oakshy/RomanTex.svg?style=social" alt="Stars">
    </a>
