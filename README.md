@@ -60,15 +60,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <img src="https://img.shields.io/github/stars/Seed3D/Dora.svg?style=social" alt="Stars">
    </a>
 
-
-## Acceleration
-1. [FlashVDM](https://github.com/Tencent-Hunyuan/FlashVDM) (Mar, 2025)
-   <a href="https://github.com/Tencent-Hunyuan/FlashVDM" title="GitHub Repo">
-     <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/FlashVDM.svg?style=social" alt="Stars">
-   </a> 
-
-## Textrue
+## Textrue Systhesis
 1. [MaterialMVP](https://github.com/ZebinHe/MaterialMVP) (ICCV 2025)
    <a href="https://github.com/ZebinHe/MaterialMVP" title="GitHub Repo">
      <i class="fab fa-github"></i> 
@@ -91,6 +83,20 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <img src="https://img.shields.io/github/stars/CVMI-Lab/TEXGen.svg?style=social" alt="Stars">
    </a>
 
+## Rigging
+1. [Unirig](https://github.com/VAST-AI-Research/UniRig) (SIGGRAPH 2025)
+   <a href="https://github.com/VAST-AI-Research/UniRig" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/VAST-AI-Research/UniRig.svg?style=social" alt="Stars">
+   </a>
+   
+## Acceleration For Mesh Generation
+1. [FlashVDM](https://github.com/Tencent-Hunyuan/FlashVDM) (Mar, 2025)
+   <a href="https://github.com/Tencent-Hunyuan/FlashVDM" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/FlashVDM.svg?style=social" alt="Stars">
+   </a>
+   
 ## Common Metrics
 For mesh
 1. ULIP-T(⬆), ULIP-I(⬆), [ULIP](https://github.com/salesforce/ULIP)
