@@ -31,15 +31,15 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/DreamTechAI/Direct3D-S2.svg?style=social" alt="Stars">
    </a>
-7. [TRELLIS](https://github.com/microsoft/TRELLIS) (Dec, 2024, CVPR 2025)
-   <a href="https://github.com/microsoft/TRELLIS" title="GitHub Repo">
-     <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/microsoft/TRELLIS.svg?style=social" alt="Stars">
-   </a>
-8. [Hi3DGen](https://github.com/Stable-X/Stable3DGen) (Apr, 2025)
+7.[Hi3DGen](https://github.com/Stable-X/Stable3DGen) (Apr, 2025 ICCV'25)
    <a href="https://github.com/Stable-X/Stable3DGen" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Stable-X/Stable3DGen.svg?style=social" alt="Stars">
+   </a>
+8. [TRELLIS](https://github.com/microsoft/TRELLIS) (Dec, 2024, CVPR'25)
+   <a href="https://github.com/microsoft/TRELLIS" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/microsoft/TRELLIS.svg?style=social" alt="Stars">
    </a>
 
 
@@ -54,37 +54,37 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/VAST-AI-Research/TripoSF.svg?style=social" alt="Stars">
    </a>
-3. [Dora](https://github.com/Seed3D/Dora) (Feb, 2025, CVPR25)
+3. [Dora](https://github.com/Seed3D/Dora) (Feb, 2025, CVPR'25)
    <a href="https://github.com/Seed3D/Dora" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Seed3D/Dora.svg?style=social" alt="Stars">
    </a>
 
 ## Textrue Systhesis
-1. [MaterialMVP](https://github.com/ZebinHe/MaterialMVP) (ICCV 2025)
+1. [MaterialMVP](https://github.com/ZebinHe/MaterialMVP) (ICCV'25)
    <a href="https://github.com/ZebinHe/MaterialMVP" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/ZebinHe/MaterialMVP.svg?style=social" alt="Stars">
    </a>
-2. [RomanTex](https://github.com/oakshy/RomanTex) (ICCV 2025)
+2. [RomanTex](https://github.com/oakshy/RomanTex) (ICCV'25)
    <a href="https://github.com/oakshy/RomanTex" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/oakshy/RomanTex.svg?style=social" alt="Stars">
    </a>
 3. [ARM](https://arm-aigc.github.io/)(CVPR 2025)
-4. [SyncMVD](https://github.com/LIU-Yuxin/SyncMVD) (SIGGRAPH Asia 2024)
+4. [SyncMVD](https://github.com/LIU-Yuxin/SyncMVD) (SIGGRAPH Asia'24)
    <a href="https://github.com/LIU-Yuxin/SyncMVD" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/LIU-Yuxin/SyncMVD.svg?style=social" alt="Stars">
    </a> 
-5. [TEXGen](https://github.com/CVMI-Lab/TEXGen) (SIGGRAPH Asia 2024)
+5. [TEXGen](https://github.com/CVMI-Lab/TEXGen) (SIGGRAPH Asia'24)
    <a href="https://github.com/CVMI-Lab/TEXGen" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/CVMI-Lab/TEXGen.svg?style=social" alt="Stars">
    </a>
 
 ## Rigging
-1. [Unirig](https://github.com/VAST-AI-Research/UniRig) (SIGGRAPH 2025)
+1. [Unirig](https://github.com/VAST-AI-Research/UniRig) (SIGGRAPH'25)
    <a href="https://github.com/VAST-AI-Research/UniRig" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/VAST-AI-Research/UniRig.svg?style=social" alt="Stars">
