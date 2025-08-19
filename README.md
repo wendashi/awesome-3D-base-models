@@ -90,7 +90,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <img src="https://img.shields.io/github/stars/VAST-AI-Research/UniRig.svg?style=social" alt="Stars">
    </a>
    
-## Acceleration For Mesh Generation
+## Acceleration For Mesh Generation (lightning vecset decoder)
 1. [FlashVDM](https://github.com/Tencent-Hunyuan/FlashVDM) (Mar, 2025)
    <a href="https://github.com/Tencent-Hunyuan/FlashVDM" title="GitHub Repo">
      <i class="fab fa-github"></i> 
