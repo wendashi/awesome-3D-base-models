@@ -31,7 +31,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/DreamTechAI/Direct3D-S2.svg?style=social" alt="Stars">
    </a>
-7.[Hi3DGen](https://github.com/Stable-X/Stable3DGen) (Apr, 2025 ICCV'25)
+7. [Hi3DGen](https://github.com/Stable-X/Stable3DGen) (Apr, 2025 ICCV'25)
    <a href="https://github.com/Stable-X/Stable3DGen" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Stable-X/Stable3DGen.svg?style=social" alt="Stars">
