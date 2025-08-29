@@ -130,3 +130,11 @@ For texture
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/1zb/3DShape2VecSet.svg?style=social" alt="Stars">
    </a>
+
+
+## Simulation
+1. [Pixie: Physics from Pixels(Aug 2025)](https://github.com/vlongle/pixie)
+   <a href="https://github.com/vlongle/pixie" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/vlongle/pixie.svg?style=social" alt="Stars">
+   </a>
