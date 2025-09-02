@@ -90,6 +90,32 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <img src="https://img.shields.io/github/stars/VAST-AI-Research/UniRig.svg?style=social" alt="Stars">
    </a>
    
+## 3D Representation (Lantent 3D)
+1. [FastMesh: Efficient Artistic Mesh Generation via Component Decoupling](https://jhkim0759.github.io/projects/FastMesh/)
+    <a href="https://github.com/jhkim0759/FastMesh" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/jhkim0759/FastMesh.svg?style=social" alt="Stars">
+   </a>
+2. [Geometry Distributions (ICCV 2025)](https://github.com/1zb/GeomDist)
+   <a href="https://github.com/1zb/GeomDist" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/1zb/GeomDist.svg?style=social" alt="Stars">
+   </a>
+3. [VecSet (TOG 2023](https://github.com/1zb/3DShape2VecSet), Used by TRELLIS, Hunyuan3D, Step1X-3D)
+   <a href="https://github.com/1zb/3DShape2VecSet" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/1zb/3DShape2VecSet.svg?style=social" alt="Stars">
+   </a>
+
+
+## Simulation
+1. [Pixie: Physics from Pixels(Aug 2025)](https://github.com/vlongle/pixie)
+   <a href="https://github.com/vlongle/pixie" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/vlongle/pixie.svg?style=social" alt="Stars">
+   </a>
+
+
 ## Acceleration For Mesh Generation (lightning vecset decoder)
 1. [FlashVDM](https://github.com/Tencent-Hunyuan/FlashVDM) (Mar, 2025)
    <a href="https://github.com/Tencent-Hunyuan/FlashVDM" title="GitHub Repo">
@@ -117,24 +143,3 @@ For texture
 2. CMMD(⬇)
 3. CLIP-I(⬆)
 4. LPIPS(⬇)
-
-
-## 3D Representation (Lantent 3D)
-1. [Geometry Distributions (ICCV 2025)](https://github.com/1zb/GeomDist)
-   <a href="https://github.com/1zb/GeomDist" title="GitHub Repo">
-     <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/1zb/GeomDist.svg?style=social" alt="Stars">
-   </a>
-2. [VecSet (TOG 2023](https://github.com/1zb/3DShape2VecSet), Used by TRELLIS, Hunyuan3D, Step1X-3D)
-   <a href="https://github.com/1zb/3DShape2VecSet" title="GitHub Repo">
-     <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/1zb/3DShape2VecSet.svg?style=social" alt="Stars">
-   </a>
-
-
-## Simulation
-1. [Pixie: Physics from Pixels(Aug 2025)](https://github.com/vlongle/pixie)
-   <a href="https://github.com/vlongle/pixie" title="GitHub Repo">
-     <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/vlongle/pixie.svg?style=social" alt="Stars">
-   </a>
