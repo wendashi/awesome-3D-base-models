@@ -89,7 +89,13 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/VAST-AI-Research/UniRig.svg?style=social" alt="Stars">
    </a>
-   
+2. [AnimateAnyMesh](https://github.com/JarrentWu1031/AnimateAnyMesh)(ICCV'25)
+   <a href="https://github.com/JarrentWu1031/AnimateAnyMesh" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/JarrentWu1031/AnimateAnyMesh.svg?style=social" alt="Stars">
+   </a>
+
+
 ## 3D Representation (Lantent 3D)
 1. [FastMesh: Efficient Artistic Mesh Generation via Component Decoupling](https://jhkim0759.github.io/projects/FastMesh/)
     <a href="https://github.com/jhkim0759/FastMesh" title="GitHub Repo">
