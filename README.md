@@ -71,7 +71,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/oakshy/RomanTex.svg?style=social" alt="Stars">
    </a>
-3. [ARM](https://arm-aigc.github.io/)(CVPR 2025)
+3. [ARM](https://arm-aigc.github.io/)(CVPR'25)
 4. [SyncMVD](https://github.com/LIU-Yuxin/SyncMVD) (SIGGRAPH Asia'24)
    <a href="https://github.com/LIU-Yuxin/SyncMVD" title="GitHub Repo">
      <i class="fab fa-github"></i> 
