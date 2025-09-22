@@ -128,6 +128,13 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/FlashVDM.svg?style=social" alt="Stars">
    </a>
+
+## Mesh re-topology
+1. [BPT](https://github.com/tencent-hunyuan/bpt) (CVPR' 25)
+   <a href="https://github.com/Tencent-Hunyuan/bpt" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/bpt.svg?style=social" alt="Stars">
+   </a>
    
 ## Common Metrics
 For mesh
