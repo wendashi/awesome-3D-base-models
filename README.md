@@ -6,6 +6,10 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
 
 ## Mesh+Texture
 1. [UniLat3D](https://github.com/UniLat3D/UniLat3D) (Sep, 2025)
+   <a href="https://github.com/UniLat3D/UniLat3D" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/UniLat3D/UniLat3D.svg?style=social" alt="Stars">
+   </a>
    
 ## Flow-matching DiT For Mesh Generation
 1. [Ultra3D](https://buaacyw.github.io/ultra3d/) (Jul, 2025)
