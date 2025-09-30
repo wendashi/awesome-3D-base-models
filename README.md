@@ -3,6 +3,9 @@
 
 # awesome-3D-base-models
 Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a bridge between text and images, the 3D Base Model is a bridge between images and 3D data.
+
+## Mesh+Texture
+1. [UniLat3D](https://github.com/UniLat3D/UniLat3D) (Sep, 2025)
    
 ## Flow-matching DiT For Mesh Generation
 1. [Ultra3D](https://buaacyw.github.io/ultra3d/) (Jul, 2025)
