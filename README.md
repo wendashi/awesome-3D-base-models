@@ -131,7 +131,16 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/vlongle/pixie.svg?style=social" alt="Stars">
    </a>
-
+2. [SAFT: Shape and Appearance of Fabrics from Template via Differentiable Physical Simulations from Monocular Video](https://github.com/vc-bonn/saft) (ICCV 2025)
+   <a href="https://github.com/vc-bonn/saft" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/vc-bonn/saft.svg?style=social" alt="Stars">
+   </a>
+3. [BrickGPT: Generating Physically Stable and Buildable Brick Structures from Text](https://github.com/AvaLovelace1/BrickGPT) (ICCV 2025 Best Paper)
+   <a href="https://github.com/AvaLovelace1/BrickGPT" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/AvaLovelace1/BrickGPT.svg?style=social" alt="Stars">
+   </a>
 
 ## Acceleration For Mesh Generation (lightning vecset decoder)
 1. [FlashVDM](https://github.com/Tencent-Hunyuan/FlashVDM) (Mar, 2025)
