@@ -79,12 +79,17 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <img src="https://img.shields.io/github/stars/oakshy/RomanTex.svg?style=social" alt="Stars">
    </a>
 3. [ARM](https://arm-aigc.github.io/)(CVPR'25)
-4. [SyncMVD](https://github.com/LIU-Yuxin/SyncMVD) (SIGGRAPH Asia'24)
+4. [MaterialAnything](https://github.com/3DTopia/MaterialAnything) (CVPR'25)  
+   <a href="https://github.com/3DTopia/MaterialAnything" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/3DTopia/MaterialAnything.svg?style=social" alt="Stars">
+   </a> 
+5. [SyncMVD](https://github.com/LIU-Yuxin/SyncMVD) (SIGGRAPH Asia'24)
    <a href="https://github.com/LIU-Yuxin/SyncMVD" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/LIU-Yuxin/SyncMVD.svg?style=social" alt="Stars">
    </a> 
-5. [TEXGen](https://github.com/CVMI-Lab/TEXGen) (SIGGRAPH Asia'24)
+6. [TEXGen](https://github.com/CVMI-Lab/TEXGen) (SIGGRAPH Asia'24)
    <a href="https://github.com/CVMI-Lab/TEXGen" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/CVMI-Lab/TEXGen.svg?style=social" alt="Stars">
