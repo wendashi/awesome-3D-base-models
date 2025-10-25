@@ -79,8 +79,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <img src="https://img.shields.io/github/stars/oakshy/RomanTex.svg?style=social" alt="Stars">
    </a>
 3. [ARM](https://arm-aigc.github.io/)(CVPR'25)
-4. [MaterialAnything](https://github.com/3DTopia/MaterialAnything) (CVPR'25)  
-   <a href="https://github.com/3DTopia/MaterialAnything" title="GitHub Repo">
+4. [MaterialAnything](https://github.com/3DTopia/MaterialAnything) (CVPR'25)  <a href="https://github.com/3DTopia/MaterialAnything" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/3DTopia/MaterialAnything.svg?style=social" alt="Stars">
    </a> 
