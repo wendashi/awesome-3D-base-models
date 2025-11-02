@@ -94,7 +94,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <img src="https://img.shields.io/github/stars/CVMI-Lab/TEXGen.svg?style=social" alt="Stars">
    </a>
 
-## Rigging
+## Animation (Rigging, Articulation)
 1. [Unirig](https://github.com/VAST-AI-Research/UniRig) (SIGGRAPH'25)
    <a href="https://github.com/VAST-AI-Research/UniRig" title="GitHub Repo">
      <i class="fab fa-github"></i> 
@@ -104,6 +104,11 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
    <a href="https://github.com/JarrentWu1031/AnimateAnyMesh" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/JarrentWu1031/AnimateAnyMesh.svg?style=social" alt="Stars">
+   </a>
+3. [FreeArt3D: Training-Free Articulated Object Generation using 3D Diffusion](https://github.com/CzzzzH/FreeArt3D)(SIGGRAPH AISA'25)
+   <a href="https://github.com/CzzzzH/FreeArt3D" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/CzzzzH/FreeArt3D.svg?style=social" alt="Stars">
    </a>
 
 
