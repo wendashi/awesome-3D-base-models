@@ -4,14 +4,48 @@
 # awesome-3D-base-models
 Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a bridge between text and images, the 3D Base Model is a bridge between images and 3D data.
 
-## Mesh+Texture
+## 3D Representation (Lantent 3D)
+1. [FastMesh: Efficient Artistic Mesh Generation via Component Decoupling](https://jhkim0759.github.io/projects/FastMesh/)
+    <a href="https://github.com/jhkim0759/FastMesh" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/jhkim0759/FastMesh.svg?style=social" alt="Stars">
+   </a>
+2. [Geometry Distributions (ICCV 2025)](https://github.com/1zb/GeomDist)
+   <a href="https://github.com/1zb/GeomDist" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/1zb/GeomDist.svg?style=social" alt="Stars">
+   </a>
+3. [VecSet (TOG 2023](https://github.com/1zb/3DShape2VecSet), Used by TRELLIS, Hunyuan3D, Step1X-3D)
+   <a href="https://github.com/1zb/3DShape2VecSet" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/1zb/3DShape2VecSet.svg?style=social" alt="Stars">
+   </a>
+
+## VAE For Mesh Reconstruction
+1. [Sparc3D](https://github.com/lizhihao6/Sparc3D) (Jun, 2025)
+   <a href="https://github.com/lizhihao6/Sparc3D" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/lizhihao6/Sparc3D.svg?style=social" alt="Stars">
+   </a>
+2. [TripoSF](https://github.com/VAST-AI-Research/TripoSF) (Mar, 2025)
+   <a href="https://github.com/VAST-AI-Research/TripoSF" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/VAST-AI-Research/TripoSF.svg?style=social" alt="Stars">
+   </a>
+3. [Dora](https://github.com/Seed3D/Dora) (Feb, 2025, CVPR'25)
+   <a href="https://github.com/Seed3D/Dora" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/Seed3D/Dora.svg?style=social" alt="Stars">
+   </a>
+
+## Flow-matching DiT For Mesh+Texture (One Stage)
 1. [UniLat3D](https://github.com/UniLat3D/UniLat3D) (Sep, 2025)
    <a href="https://github.com/UniLat3D/UniLat3D" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/UniLat3D/UniLat3D.svg?style=social" alt="Stars">
    </a>
    
-## Flow-matching DiT For Mesh Generation
+## Flow-matching DiT For Mesh Generation & Texture Generation (Two Stages)
 1. [Ultra3D](https://buaacyw.github.io/ultra3d/) (Jul, 2025)
 2. [Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) (Jun, 2025)
    <a href="https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1" title="GitHub Repo">
@@ -49,25 +83,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <img src="https://img.shields.io/github/stars/microsoft/TRELLIS.svg?style=social" alt="Stars">
    </a>
 
-
-## VAE For Mesh Reconstruction
-1. [Sparc3D](https://github.com/lizhihao6/Sparc3D) (Jun, 2025)
-   <a href="https://github.com/lizhihao6/Sparc3D" title="GitHub Repo">
-     <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/lizhihao6/Sparc3D.svg?style=social" alt="Stars">
-   </a>
-2. [TripoSF](https://github.com/VAST-AI-Research/TripoSF) (Mar, 2025)
-   <a href="https://github.com/VAST-AI-Research/TripoSF" title="GitHub Repo">
-     <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/VAST-AI-Research/TripoSF.svg?style=social" alt="Stars">
-   </a>
-3. [Dora](https://github.com/Seed3D/Dora) (Feb, 2025, CVPR'25)
-   <a href="https://github.com/Seed3D/Dora" title="GitHub Repo">
-     <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/Seed3D/Dora.svg?style=social" alt="Stars">
-   </a>
-
-## Textrue Systhesis
+## Textrue Generation
 1. [MaterialMVP](https://github.com/ZebinHe/MaterialMVP) (ICCV'25)
    <a href="https://github.com/ZebinHe/MaterialMVP" title="GitHub Repo">
      <i class="fab fa-github"></i> 
@@ -109,24 +125,6 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
    <a href="https://github.com/CzzzzH/FreeArt3D" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/CzzzzH/FreeArt3D.svg?style=social" alt="Stars">
-   </a>
-
-
-## 3D Representation (Lantent 3D)
-1. [FastMesh: Efficient Artistic Mesh Generation via Component Decoupling](https://jhkim0759.github.io/projects/FastMesh/)
-    <a href="https://github.com/jhkim0759/FastMesh" title="GitHub Repo">
-     <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/jhkim0759/FastMesh.svg?style=social" alt="Stars">
-   </a>
-2. [Geometry Distributions (ICCV 2025)](https://github.com/1zb/GeomDist)
-   <a href="https://github.com/1zb/GeomDist" title="GitHub Repo">
-     <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/1zb/GeomDist.svg?style=social" alt="Stars">
-   </a>
-3. [VecSet (TOG 2023](https://github.com/1zb/3DShape2VecSet), Used by TRELLIS, Hunyuan3D, Step1X-3D)
-   <a href="https://github.com/1zb/3DShape2VecSet" title="GitHub Repo">
-     <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/1zb/3DShape2VecSet.svg?style=social" alt="Stars">
    </a>
 
 
