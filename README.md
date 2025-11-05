@@ -4,6 +4,9 @@
 # awesome-3D-base-models
 Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a bridge between text and images, the 3D Base Model is a bridge between images and 3D data.
 
+## Review
+1. [Feed-Forward-3D](https://fnzhan.com/projects/Feed-Forward-3D/) 
+
 ## 3D Representation (Lantent 3D)
 1. [FastMesh: Efficient Artistic Mesh Generation via Component Decoupling](https://jhkim0759.github.io/projects/FastMesh/)
     <a href="https://github.com/jhkim0759/FastMesh" title="GitHub Repo">
