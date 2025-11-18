@@ -168,7 +168,8 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
 
 ## UV-unwrapping
 1. [Auto-Regressive Surface Cutting](https://victorcheung12.github.io/seamgpt/) (Jun, 2025)
-
+2. [ArtUV: Artist-style UV Unwrapping](https://chenyg59.github.io/ArtUV/) (Sep, 2025)
+3. [SeamCrafter: Enhancing Mesh Seam Generation for Artist UV Unwrapping via Reinforcement Learning](https://chenyg59.github.io/SeamCrafter/) (Sep, 2025)
    
 ## Common Metrics
 For mesh
