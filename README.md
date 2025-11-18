@@ -113,7 +113,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <img src="https://img.shields.io/github/stars/CVMI-Lab/TEXGen.svg?style=social" alt="Stars">
    </a>
 
-## Animation (Rigging, Articulation)
+## Animation/Simulation (Rigging, Articulation, Dynamics with Physical Property)
 1. [Unirig](https://github.com/VAST-AI-Research/UniRig) (SIGGRAPH'25)
    <a href="https://github.com/VAST-AI-Research/UniRig" title="GitHub Repo">
      <i class="fab fa-github"></i> 
@@ -129,24 +129,28 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/CzzzzH/FreeArt3D.svg?style=social" alt="Stars">
    </a>
-
-
-## Simulation
-1. [Pixie: Physics from Pixels(Aug 2025)](https://github.com/vlongle/pixie)
+4. [Pixie: Physics from Pixels(Aug 2025)](https://github.com/vlongle/pixie)
    <a href="https://github.com/vlongle/pixie" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/vlongle/pixie.svg?style=social" alt="Stars">
    </a>
-2. [SAFT: Shape and Appearance of Fabrics from Template via Differentiable Physical Simulations from Monocular Video](https://github.com/vc-bonn/saft) (ICCV 2025)
+5. [SAFT: Shape and Appearance of Fabrics from Template via Differentiable Physical Simulations from Monocular Video](https://github.com/vc-bonn/saft) (ICCV 2025)
    <a href="https://github.com/vc-bonn/saft" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/vc-bonn/saft.svg?style=social" alt="Stars">
    </a>
-3. [BrickGPT: Generating Physically Stable and Buildable Brick Structures from Text](https://github.com/AvaLovelace1/BrickGPT) (ICCV 2025 Best Paper)
+6. [BrickGPT: Generating Physically Stable and Buildable Brick Structures from Text](https://github.com/AvaLovelace1/BrickGPT) (ICCV 2025 Best Paper)
    <a href="https://github.com/AvaLovelace1/BrickGPT" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/AvaLovelace1/BrickGPT.svg?style=social" alt="Stars">
    </a>
+7. [PhysX-3D: Physical-Grounded 3D Asset Generation](https://github.com/ziangcao0312/PhysX-3D?tab=readme-ov-file) (NIPS 2025 Spotlight)
+   <a href="https://github.com/ziangcao0312/PhysX-3D" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/ziangcao0312/PhysX-3D.svg?style=social" alt="Stars">
+   </a>
+8. [PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image](https://github.com/ziangcao0312/PhysX-Anything)
+
 
 ## Acceleration For Mesh Generation (lightning vecset decoder)
 1. [FlashVDM](https://github.com/Tencent-Hunyuan/FlashVDM) (Mar, 2025)
