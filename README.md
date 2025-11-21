@@ -18,7 +18,12 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/1zb/GeomDist.svg?style=social" alt="Stars">
    </a>
-3. [VecSet (TOG 2023](https://github.com/1zb/3DShape2VecSet), Used by TRELLIS, Hunyuan3D, Step1X-3D)
+3. [Ghost on the Shell: An Expressive Representation of General 3D Shapes (ICLR 2024 Oral)](https://github.com/lzzcd001/GShell/)
+   <a href="https://github.com/lzzcd001/GShell" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/lzzcd001/GShell.svg?style=social" alt="Stars">
+   </a>
+4. [VecSet (TOG 2023](https://github.com/1zb/3DShape2VecSet), Used by TRELLIS, Hunyuan3D, Step1X-3D)
    <a href="https://github.com/1zb/3DShape2VecSet" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/1zb/3DShape2VecSet.svg?style=social" alt="Stars">
