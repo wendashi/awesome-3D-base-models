@@ -117,6 +117,8 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/CVMI-Lab/TEXGen.svg?style=social" alt="Stars">
    </a>
+7. [NaTex: Meet Native Texture Generation](https://github.com/Zeqiang-Lai/NaTex) (Nov 25)
+
 
 ## Animation/Simulation (Rigging, Articulation, Dynamics with Physical Property)
 1. [Unirig](https://github.com/VAST-AI-Research/UniRig) (SIGGRAPH'25)
@@ -175,7 +177,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
 1. [Auto-Regressive Surface Cutting](https://victorcheung12.github.io/seamgpt/) (Jun, 2025)
 2. [ArtUV: Artist-style UV Unwrapping](https://chenyg59.github.io/ArtUV/) (Sep, 2025)
 3. [SeamCrafter: Enhancing Mesh Seam Generation for Artist UV Unwrapping via Reinforcement Learning](https://chenyg59.github.io/SeamCrafter/) (Sep, 2025)
-4. [PartUV: Part-Based UV Unwrapping of 3D Meshes](https://github.com/EricWang12/PartUV) (SigGraph Aisa 2025)
+4. [PartUV: Part-Based UV Unwrapping of 3D Meshes](https://github.com/EricWang12/PartUV) (SIGGRAPH Asia'24)
 
 ## Post-train of 3D base models
 1. [DeepMesh: Auto-Regressive Artist-Mesh Creation With Reinforcement Learning](https://github.com/zhaorw02/DeepMesh) (ICCV 2025)
