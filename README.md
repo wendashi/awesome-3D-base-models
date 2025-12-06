@@ -46,14 +46,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <img src="https://img.shields.io/github/stars/Seed3D/Dora.svg?style=social" alt="Stars">
    </a>
 
-## Flow-matching DiT For Mesh+Texture (One Stage)
-1. [UniLat3D](https://github.com/UniLat3D/UniLat3D) (Sep, 2025)
-   <a href="https://github.com/UniLat3D/UniLat3D" title="GitHub Repo">
-     <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/UniLat3D/UniLat3D.svg?style=social" alt="Stars">
-   </a>
-   
-## Flow-matching DiT For Mesh Generation & Texture Generation (Two Stages)
+## Flow-matching DiT For Mesh Generation & Texture Generation
 1. [Ultra3D](https://buaacyw.github.io/ultra3d/) (Jul, 2025)
 2. [Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) (Jun, 2025)
    <a href="https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1" title="GitHub Repo">
@@ -89,6 +82,11 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
    <a href="https://github.com/microsoft/TRELLIS" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/microsoft/TRELLIS.svg?style=social" alt="Stars">
+   </a>
+9. [UniLat3D](https://github.com/UniLat3D/UniLat3D) (Sep, 2025)
+   <a href="https://github.com/UniLat3D/UniLat3D" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/UniLat3D/UniLat3D.svg?style=social" alt="Stars">
    </a>
 
 ## Textrue Generation
