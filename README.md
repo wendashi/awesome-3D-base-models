@@ -90,33 +90,37 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
    </a>
 
 ## Textrue Generation
-1. [MaterialMVP](https://github.com/ZebinHe/MaterialMVP) (ICCV'25)
-   <a href="https://github.com/ZebinHe/MaterialMVP" title="GitHub Repo">
+1. [SyncMVD](https://github.com/LIU-Yuxin/SyncMVD) (SIGGRAPH Asia'24)
+   <a href="https://github.com/LIU-Yuxin/SyncMVD" title="GitHub Repo">
      <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/ZebinHe/MaterialMVP.svg?style=social" alt="Stars">
-   </a>
-2. [RomanTex](https://github.com/oakshy/RomanTex) (ICCV'25)
-   <a href="https://github.com/oakshy/RomanTex" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/LIU-Yuxin/SyncMVD.svg?style=social" alt="Stars">
+   </a> 
+2. [TEXGen](https://github.com/CVMI-Lab/TEXGen) (SIGGRAPH Asia'24)
+   <a href="https://github.com/CVMI-Lab/TEXGen" title="GitHub Repo">
      <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/oakshy/RomanTex.svg?style=social" alt="Stars">
+     <img src="https://img.shields.io/github/stars/CVMI-Lab/TEXGen.svg?style=social" alt="Stars">
    </a>
 3. [ARM](https://arm-aigc.github.io/)(CVPR'25)
 4. [MaterialAnything](https://github.com/3DTopia/MaterialAnything) (CVPR'25)  <a href="https://github.com/3DTopia/MaterialAnything" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/3DTopia/MaterialAnything.svg?style=social" alt="Stars">
    </a> 
-5. [SyncMVD](https://github.com/LIU-Yuxin/SyncMVD) (SIGGRAPH Asia'24)
-   <a href="https://github.com/LIU-Yuxin/SyncMVD" title="GitHub Repo">
+5. [MaterialMVP](https://github.com/ZebinHe/MaterialMVP) (ICCV'25)
+   <a href="https://github.com/ZebinHe/MaterialMVP" title="GitHub Repo">
      <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/LIU-Yuxin/SyncMVD.svg?style=social" alt="Stars">
-   </a> 
-6. [TEXGen](https://github.com/CVMI-Lab/TEXGen) (SIGGRAPH Asia'24)
-   <a href="https://github.com/CVMI-Lab/TEXGen" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/ZebinHe/MaterialMVP.svg?style=social" alt="Stars">
+   </a>
+6. [RomanTex](https://github.com/oakshy/RomanTex) (ICCV'25)
+   <a href="https://github.com/oakshy/RomanTex" title="GitHub Repo">
      <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/CVMI-Lab/TEXGen.svg?style=social" alt="Stars">
+     <img src="https://img.shields.io/github/stars/oakshy/RomanTex.svg?style=social" alt="Stars">
    </a>
 7. [NaTex: Meet Native Texture Generation](https://github.com/Zeqiang-Lai/NaTex) (Nov 25)
-
+8. [SeqTex: Generate Mesh Textures in Video Sequence](https://github.com/VAST-AI-Research/SeqTex) 
+   <a href="https://github.com/VAST-AI-Research/SeqTex" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/VAST-AI-Research/SeqTex.svg?style=social" alt="Stars">
+   </a>
 
 ## Animation/Simulation (Rigging, Articulation, Dynamics with Physical Property)
 1. [Unirig](https://github.com/VAST-AI-Research/UniRig) (SIGGRAPH'25)
