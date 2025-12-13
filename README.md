@@ -8,26 +8,27 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
 1. [Feed-Forward-3D](https://fnzhan.com/projects/Feed-Forward-3D/) 
 
 ## 3D Representation (Lantent 3D)
-1. [FastMesh: Efficient Artistic Mesh Generation via Component Decoupling](https://jhkim0759.github.io/projects/FastMesh/)
-    <a href="https://github.com/jhkim0759/FastMesh" title="GitHub Repo">
-     <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/jhkim0759/FastMesh.svg?style=social" alt="Stars">
-   </a>
-2. [Geometry Distributions (ICCV 2025)](https://github.com/1zb/GeomDist)
-   <a href="https://github.com/1zb/GeomDist" title="GitHub Repo">
-     <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/1zb/GeomDist.svg?style=social" alt="Stars">
-   </a>
-3. [Ghost on the Shell: An Expressive Representation of General 3D Shapes (ICLR 2024 Oral)](https://github.com/lzzcd001/GShell/)
-   <a href="https://github.com/lzzcd001/GShell" title="GitHub Repo">
-     <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/lzzcd001/GShell.svg?style=social" alt="Stars">
-   </a>
-4. [VecSet (TOG 2023](https://github.com/1zb/3DShape2VecSet), Used by TRELLIS, Hunyuan3D, Step1X-3D)
+1. [VecSet (TOG 2023](https://github.com/1zb/3DShape2VecSet), Used by TRELLIS, Hunyuan3D, Step1X-3D)
    <a href="https://github.com/1zb/3DShape2VecSet" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/1zb/3DShape2VecSet.svg?style=social" alt="Stars">
    </a>
+2. [Ghost on the Shell: An Expressive Representation of General 3D Shapes (ICLR 2024 Oral)](https://github.com/lzzcd001/GShell/)
+   <a href="https://github.com/lzzcd001/GShell" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/lzzcd001/GShell.svg?style=social" alt="Stars">
+   </a>
+3. [FastMesh: Efficient Artistic Mesh Generation via Component Decoupling](https://jhkim0759.github.io/projects/FastMesh/)
+    <a href="https://github.com/jhkim0759/FastMesh" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/jhkim0759/FastMesh.svg?style=social" alt="Stars">
+   </a>
+4. [Geometry Distributions (ICCV 2025)](https://github.com/1zb/GeomDist)
+   <a href="https://github.com/1zb/GeomDist" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/1zb/GeomDist.svg?style=social" alt="Stars">
+   </a> 
+5. [(VoxSet)LATTICE: Democratize High-Fidelity 3D Generation at Scale](https://lattice3d.github.io/) (Nov, 2025)
 
 ## VAE For Mesh Reconstruction
 1. [Sparc3D](https://github.com/lizhihao6/Sparc3D) (Jun, 2025)
