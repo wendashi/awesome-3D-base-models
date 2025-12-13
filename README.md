@@ -116,7 +116,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <img src="https://img.shields.io/github/stars/oakshy/RomanTex.svg?style=social" alt="Stars">
    </a>
 7. [NaTex: Meet Native Texture Generation](https://github.com/Zeqiang-Lai/NaTex) (Nov 25)
-8. [SeqTex: Generate Mesh Textures in Video Sequence](https://github.com/VAST-AI-Research/SeqTex) 
+8. [SeqTex: Generate Mesh Textures in Video Sequence](https://github.com/VAST-AI-Research/SeqTex) (SIGGRAPH Asia'25)
    <a href="https://github.com/VAST-AI-Research/SeqTex" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/VAST-AI-Research/SeqTex.svg?style=social" alt="Stars">
