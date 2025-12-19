@@ -8,7 +8,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
 1. [Feed-Forward-3D](https://fnzhan.com/projects/Feed-Forward-3D/) 
 
 ## 3D Representation (Latent 3D)
-1. [VecSet (TOG 2023](https://github.com/1zb/3DShape2VecSet), Used by TRELLIS, Hunyuan3D, Step1X-3D)
+1. [VecSet (TOG 2023](https://github.com/1zb/3DShape2VecSet), Used by Hunyuan3D2.1, TripoSG, Step1X-3D)
    <a href="https://github.com/1zb/3DShape2VecSet" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/1zb/3DShape2VecSet.svg?style=social" alt="Stars">
@@ -80,7 +80,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Stable-X/Stable3DGen.svg?style=social" alt="Stars">
    </a>
-8. [TRELLIS](https://github.com/microsoft/TRELLIS) (Dec, 2024, CVPR'25)
+8. [(SLat) TRELLIS](https://github.com/microsoft/TRELLIS) (Dec, 2024, CVPR'25)
    <a href="https://github.com/microsoft/TRELLIS" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/microsoft/TRELLIS.svg?style=social" alt="Stars">
