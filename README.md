@@ -29,6 +29,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <img src="https://img.shields.io/github/stars/1zb/GeomDist.svg?style=social" alt="Stars">
    </a> 
 5. [(VoxSet)LATTICE: Democratize High-Fidelity 3D Generation at Scale](https://lattice3d.github.io/) (Nov, 2025)
+6. [(O-Voxel) TRELLIS.2](https://github.com/microsoft/TRELLIS.2/tree/main/o-voxel) (Dec, 2025)
 
 ## VAE For Mesh Reconstruction
 1. [Sparc3D](https://github.com/lizhihao6/Sparc3D) (Jun, 2025)
