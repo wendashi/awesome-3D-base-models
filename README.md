@@ -194,7 +194,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/MobiusLqm/Nabla-R2D3.svg?style=social" alt="Stars">
    </a>
-3. DreamDPO: Aligning Text-to-3D Generation with Human Preferences via Direct Preference Optimization (ICML 2025)
+3. [DreamDPO: Aligning Text-to-3D Generation with Human Preferences via Direct Preference Optimization](https://github.com/MobiusLqm/Nabla-R2D3) (ICML 2025)
    <a href="https://github.com/ZhenglinZhou/DreamDPO" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/ZhenglinZhou/DreamDPO.svg?style=social" alt="Stars">
