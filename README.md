@@ -189,8 +189,18 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/zhaorw02/DeepMesh.svg?style=social" alt="Stars">
    </a>
+2. [Nabla-R2D3 : Effective and Efficient 3D Diffusion Alignment with 2D Rewards](https://nabla-r2d3.github.io/) (NIPS 2025)
+   <a href="https://github.com/MobiusLqm/Nabla-R2D3" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/MobiusLqm/Nabla-R2D3.svg?style=social" alt="Stars">
+   </a>
+3. DreamDPO: Aligning Text-to-3D Generation with Human Preferences via Direct Preference Optimization (ICML 2025)
+   <a href="https://github.com/ZhenglinZhou/DreamDPO" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/ZhenglinZhou/DreamDPO.svg?style=social" alt="Stars">
+   </a>
 
-   
+
 ## Common Metrics
 For mesh
 1. ULIP-T(⬆), ULIP-I(⬆), [ULIP](https://github.com/salesforce/ULIP)
