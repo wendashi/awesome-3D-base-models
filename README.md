@@ -161,6 +161,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <img src="https://img.shields.io/github/stars/ziangcao0312/PhysX-3D.svg?style=social" alt="Stars">
    </a>
 8. [PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image](https://github.com/ziangcao0312/PhysX-Anything)
+9. [PGC: Physics-Based Gaussian Cloth from a Single Pose](https://phys-gaussian-cloth.github.io/)  (CVPR 2025 Highlight)
 
 
 ## Acceleration For Mesh Generation (lightning vecset decoder)
