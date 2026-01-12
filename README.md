@@ -30,6 +30,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
    </a> 
 5. [(VoxSet)LATTICE: Democratize High-Fidelity 3D Generation at Scale](https://lattice3d.github.io/) (Nov, 2025)
 6. [(O-Voxel) TRELLIS.2](https://github.com/microsoft/TRELLIS.2/tree/main/o-voxel) (Dec, 2025)
+7. [Faithful Contouring](https://github.com/Luo-Yihao/FaithC) (Nov, 2025)
 
 ## VAE For Mesh Reconstruction
 1. [Sparc3D](https://github.com/lizhihao6/Sparc3D) (Jun, 2025)
@@ -90,6 +91,8 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/UniLat3D/UniLat3D.svg?style=social" alt="Stars">
    </a>
+10. [UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement](https://github.com/PKU-YuanGroup/UltraShape-1.0)
+
 
 ## Textrue Generation
 1. [SyncMVD](https://github.com/LIU-Yuxin/SyncMVD) (SIGGRAPH Asia'24)
