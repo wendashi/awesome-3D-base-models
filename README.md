@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wendashi/awesome-3D-base-models)
 
 # awesome-3D-base-models
-Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a bridge between text and images, the 3D Base Model is a bridge between images and 3D data.
+Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a bridge between text and images, the 3D Base Model is a bridge between text/images and 3D data.
 
 ## Review
 1. [Feed-Forward-3D](https://fnzhan.com/projects/Feed-Forward-3D/) 
