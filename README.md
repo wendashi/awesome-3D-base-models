@@ -167,6 +167,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
 9. [PGC: Physics-Based Gaussian Cloth from a Single Pose](https://phys-gaussian-cloth.github.io/)  (CVPR 2025 Highlight)
 10. [PhysAvatar: Learning the Physics of Dressed 3D Avatars from Visual Observations](https://github.com/y-zheng18/PhysAvatar
 ) (ECCV 2024)
+11. [DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness](https://github.com/RuiningLi/dso?tab=readme-ov-file) (ICCV 2025)
 
 
 ## Acceleration For Mesh Generation (lightning vecset decoder)
