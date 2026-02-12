@@ -126,6 +126,11 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/VAST-AI-Research/SeqTex.svg?style=social" alt="Stars">
    </a>
+9. [Chord: Chain of Rendering Decomposition for PBR Material Estimation from Generated Texture images](https://ubisoft-laforge.github.io/world/chord/) (SIGGRAPH Asia'25)
+   <a href="https://github.com/ubisoft/ubisoft-laforge-chord" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/ubisoft/ubisoft-laforge-chord.svg?style=social" alt="Stars">
+   </a>
 
 ## Animation/Simulation (Rigging, Articulation, Dynamics with Physical Property)
 1. [Unirig](https://github.com/VAST-AI-Research/UniRig) (SIGGRAPH'25)
