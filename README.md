@@ -31,6 +31,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
 5. [(VoxSet)LATTICE: Democratize High-Fidelity 3D Generation at Scale](https://lattice3d.github.io/) (Nov, 2025)
 6. [(O-Voxel) TRELLIS.2](https://github.com/microsoft/TRELLIS.2/tree/main/o-voxel) (Dec, 2025)
 7. [Faithful Contouring](https://github.com/Luo-Yihao/FaithC) (Nov, 2025)
+8. [FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation](https://arxiv.org/abs/2603.01515) (CVPR 2026)
 
 ## VAE For Mesh Reconstruction
 1. [Sparc3D](https://github.com/lizhihao6/Sparc3D) (Jun, 2025)
