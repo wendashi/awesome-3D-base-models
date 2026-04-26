@@ -229,6 +229,13 @@ For mesh
    - code for ULIP/Uni3D: https://github.com/Tencent-Hunyuan/FlashVDM/blob/main/evaluation/app_metric.py
 3. Chamfer Distance (CD⬇) and Normal Consistency (NC⬆) quantify the geometric similarity between reconstructed/generated and ground-truth meshes.
 
+## Bench
+1. [HY3D-Bench](https://github.com/Tencent-Hunyuan/HY3D-Bench)
+  <a href="https://github.com/Tencent-Hunyuan/HY3D-Bench" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/HY3D-Bench.svg?style=social" alt="Stars">
+   </a>
+
 For texture
 1. CLIP-FiD(⬇)
 2. CMMD(⬇)
