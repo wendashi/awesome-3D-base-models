@@ -13,30 +13,31 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
 1. [Feed-Forward-3D](https://fnzhan.com/projects/Feed-Forward-3D/) 
 
 ## Modeling - 3D Representation
-1. [VecSet (TOG 2023](https://github.com/1zb/3DShape2VecSet), Used by Hunyuan3D2.1, TripoSG, Step1X-3D)
+1. [VecSet (TOG 2023)](https://github.com/1zb/3DShape2VecSet), Used by Hunyuan3D2.1, TripoSG, Step1X-3D)
    <a href="https://github.com/1zb/3DShape2VecSet" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/1zb/3DShape2VecSet.svg?style=social" alt="Stars">
    </a>
-2. [Ghost on the Shell: An Expressive Representation of General 3D Shapes (ICLR 2024 Oral)](https://github.com/lzzcd001/GShell/)
+2. [(SLat) TRELLIS](https://github.com/microsoft/TRELLIS) (Dec, 2024, CVPR'25)
+3. [Ghost on the Shell: An Expressive Representation of General 3D Shapes (ICLR 2024 Oral)](https://github.com/lzzcd001/GShell/)
    <a href="https://github.com/lzzcd001/GShell" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/lzzcd001/GShell.svg?style=social" alt="Stars">
    </a>
-3. [FastMesh: Efficient Artistic Mesh Generation via Component Decoupling](https://jhkim0759.github.io/projects/FastMesh/)
+4. [FastMesh: Efficient Artistic Mesh Generation via Component Decoupling](https://jhkim0759.github.io/projects/FastMesh/)
     <a href="https://github.com/jhkim0759/FastMesh" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/jhkim0759/FastMesh.svg?style=social" alt="Stars">
    </a>
-4. [Geometry Distributions (ICCV 2025)](https://github.com/1zb/GeomDist)
+5. [Geometry Distributions (ICCV 2025)](https://github.com/1zb/GeomDist)
    <a href="https://github.com/1zb/GeomDist" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/1zb/GeomDist.svg?style=social" alt="Stars">
    </a> 
-5. [(VoxSet)LATTICE: Democratize High-Fidelity 3D Generation at Scale](https://lattice3d.github.io/) (Nov, 2025)
-6. [(O-Voxel) TRELLIS.2](https://github.com/microsoft/TRELLIS.2/tree/main/o-voxel) (Dec, 2025)
-7. [Faithful Contouring](https://github.com/Luo-Yihao/FaithC) (Nov, 2025)
-8. [FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation](https://arxiv.org/abs/2603.01515) (CVPR 2026)
+6. [(VoxSet) LATTICE: Democratize High-Fidelity 3D Generation at Scale](https://lattice3d.github.io/) (Nov, 2025)
+7. [(O-Voxel) TRELLIS.2](https://github.com/microsoft/TRELLIS.2/tree/main/o-voxel) (Dec, 2025)
+8. [Faithful Contouring](https://github.com/Luo-Yihao/FaithC) (Nov, 2025)
+9. [FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation](https://arxiv.org/abs/2603.01515) (CVPR 2026)
 
 ## Modeling - VAE For Mesh Reconstruction
 1. [Sparc3D](https://github.com/lizhihao6/Sparc3D) (Jun, 2025)
@@ -87,7 +88,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Stable-X/Stable3DGen.svg?style=social" alt="Stars">
    </a>
-8. [(SLat) TRELLIS](https://github.com/microsoft/TRELLIS) (Dec, 2024, CVPR'25)
+8. [TRELLIS](https://github.com/microsoft/TRELLIS) (Dec, 2024, CVPR'25)
    <a href="https://github.com/microsoft/TRELLIS" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/microsoft/TRELLIS.svg?style=social" alt="Stars">
