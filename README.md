@@ -177,7 +177,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
 
 
 ## Acceleration For Mesh Generation (lightning vecset decoder)
-1. [FlashVDM](https://github.com/Tencent-Hunyuan/FlashVDM) (Mar, 2025)
+1. [FlashVDM](https://github.com/Tencent-Hunyuan/FlashVDM) (ICCV' 25)
    <a href="https://github.com/Tencent-Hunyuan/FlashVDM" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/FlashVDM.svg?style=social" alt="Stars">
@@ -188,6 +188,21 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
    <a href="https://github.com/Tencent-Hunyuan/bpt" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/bpt.svg?style=social" alt="Stars">
+   </a>
+2. [DeepMesh](https://github.com/zhaorw02/DeepMesh) (ICCV' 25)
+   <a href="https://github.com/zhaorw02/DeepMesh" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/zhaorw02/DeepMesh.svg?style=social" alt="Stars">
+   </a>
+3. [MeshMosaic](https://github.com/Xrvitd/MeshMosaic) (CVPR' 26)
+   <a href="https://github.com/Xrvitd/MeshMosaic" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/Xrvitd/MeshMosaic.svg?style=social" alt="Stars">
+   </a> 
+4. [SATO](https://github.com/Xrvitd/SATO) (SIGGRAPH' 26)
+   <a href="https://github.com/Xrvitd/SATO" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/Xrvitd/SATO.svg?style=social" alt="Stars">
    </a>
 
 ## UV-unwrapping
