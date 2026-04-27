@@ -5,7 +5,7 @@
 Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a bridge between text and images, the 3D Base Model is a bridge between text/images and 3D data. But the pipeline of 3D creation is **way more complex** than 2D creation.
 
 
-[3D Animation Pipeline](https://www.meshy.ai/zh/blog/animation-pipeline): Modeling → Topology & UV (Re-topology/UV Unwrapping/Artist Mesh) → Texture → Motion (Rigging & Skinning / Animation / Rendering / Lighting / Simulation)
+[3D Animation Pipeline](https://www.meshy.ai/zh/blog/animation-pipeline): Modeling (Re-Topology / UV Unwrapping / Artist Mesh) → Texture → Motion (Rigging & Skinning / Animation / Rendering / Lighting / Simulation)
 
 <img width="2180" height="1516" alt="image" src="https://github.com/user-attachments/assets/13326113-7a83-411b-a42b-9ab995b09bbd" />
 
