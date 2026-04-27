@@ -102,6 +102,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
   <i class="fab fa-github"></i> 
   <img src="https://img.shields.io/github/stars/PKU-YuanGroup/UltraShape-1.0.svg?style=social" alt="Stars">
 </a>
+
 11. [Trelli2](https://github.com/microsoft/TRELLIS.2)
    <a href="https://github.com/microsoft/TRELLIS.2" title="GitHub Repo">
      <i class="fab fa-github"></i> 
