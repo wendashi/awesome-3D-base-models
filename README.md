@@ -2,12 +2,17 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wendashi/awesome-3D-base-models)
 
 # awesome-3D-base-models
-Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a bridge between text and images, the 3D Base Model is a bridge between text/images and 3D data.
+Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a bridge between text and images, the 3D Base Model is a bridge between text/images and 3D data. But the pipeline of 3D creation is **way more complex** than 2D creation
+
+
+[3D Animation Pipeline](https://www.meshy.ai/zh/blog/animation-pipeline): Modeling → Topology & UV (Re-topology/UV Unwrapping/Artist Mesh) → Texture → Rigging & Skinning → Motion (Animation / Rendering / Lighting / Simulation)
+
+<img width="2180" height="1516" alt="image" src="https://github.com/user-attachments/assets/13326113-7a83-411b-a42b-9ab995b09bbd" />
 
 ## Review
 1. [Feed-Forward-3D](https://fnzhan.com/projects/Feed-Forward-3D/) 
 
-## 3D Representation (Latent 3D)
+## Modeling - 3D Representation
 1. [VecSet (TOG 2023](https://github.com/1zb/3DShape2VecSet), Used by Hunyuan3D2.1, TripoSG, Step1X-3D)
    <a href="https://github.com/1zb/3DShape2VecSet" title="GitHub Repo">
      <i class="fab fa-github"></i> 
@@ -33,7 +38,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
 7. [Faithful Contouring](https://github.com/Luo-Yihao/FaithC) (Nov, 2025)
 8. [FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation](https://arxiv.org/abs/2603.01515) (CVPR 2026)
 
-## VAE For Mesh Reconstruction
+## Modeling - VAE For Mesh Reconstruction
 1. [Sparc3D](https://github.com/lizhihao6/Sparc3D) (Jun, 2025)
    <a href="https://github.com/lizhihao6/Sparc3D" title="GitHub Repo">
      <i class="fab fa-github"></i> 
@@ -50,7 +55,7 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <img src="https://img.shields.io/github/stars/Seed3D/Dora.svg?style=social" alt="Stars">
    </a>
 
-## Flow-matching DiT For Mesh Generation & Texture Generation
+## Modeling/Texture - Flow-matching DiT For Mesh Generation & Texture Generation
 1. [Ultra3D](https://buaacyw.github.io/ultra3d/) (Jul, 2025)
 2. [Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) (Jun, 2025)
    <a href="https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1" title="GitHub Repo">
@@ -94,6 +99,36 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
    </a>
 10. [UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement](https://github.com/PKU-YuanGroup/UltraShape-1.0)
 
+## Modeling - Re-topology / Artist Mesh Generation
+1. [BPT](https://github.com/tencent-hunyuan/bpt) (CVPR' 25)
+   <a href="https://github.com/Tencent-Hunyuan/bpt" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/bpt.svg?style=social" alt="Stars">
+   </a>
+2. [DeepMesh](https://github.com/zhaorw02/DeepMesh) (ICCV' 25)
+   <a href="https://github.com/zhaorw02/DeepMesh" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/zhaorw02/DeepMesh.svg?style=social" alt="Stars">
+   </a>
+3. [MeshMosaic](https://github.com/Xrvitd/MeshMosaic) (CVPR' 26)
+   <a href="https://github.com/Xrvitd/MeshMosaic" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/Xrvitd/MeshMosaic.svg?style=social" alt="Stars">
+   </a> 
+4. [SATO](https://github.com/Xrvitd/SATO) (SIGGRAPH' 26)
+   <a href="https://github.com/Xrvitd/SATO" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/Xrvitd/SATO.svg?style=social" alt="Stars">
+   </a>
+
+## Modeling - UV unwrapping
+1. [Auto-Regressive Surface Cutting](https://victorcheung12.github.io/seamgpt/) (Jun, 2025)
+2. [ArtUV: Artist-style UV Unwrapping](https://chenyg59.github.io/ArtUV/) (Sep, 2025)
+3. [SeamCrafter: Enhancing Mesh Seam Generation for Artist UV Unwrapping via Reinforcement Learning](https://chenyg59.github.io/SeamCrafter/) (Sep, 2025)
+4. [PartUV: Part-Based UV Unwrapping of 3D Meshes](https://github.com/EricWang12/PartUV) (SIGGRAPH Asia'24)
+5. [MeshTailor: Cutting Seams via Generative Mesh Traversal](https://meshtailor.github.io)
+
+
 
 ## Textrue Generation
 1. [SyncMVD](https://github.com/LIU-Yuxin/SyncMVD) (SIGGRAPH Asia'24)
@@ -132,8 +167,8 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/ubisoft/ubisoft-laforge-chord.svg?style=social" alt="Stars">
    </a>
-
-## Animation/Simulation (Rigging, Articulation, Dynamics with Physical Property)
+   
+## Motion  - Rigging / Articulation / Dynamics with Physical Property / Animation / Simulation
 1. [Unirig](https://github.com/VAST-AI-Research/UniRig) (SIGGRAPH'25)
    <a href="https://github.com/VAST-AI-Research/UniRig" title="GitHub Repo">
      <i class="fab fa-github"></i> 
@@ -182,35 +217,6 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/FlashVDM.svg?style=social" alt="Stars">
    </a>
-
-## Mesh re-topology
-1. [BPT](https://github.com/tencent-hunyuan/bpt) (CVPR' 25)
-   <a href="https://github.com/Tencent-Hunyuan/bpt" title="GitHub Repo">
-     <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/bpt.svg?style=social" alt="Stars">
-   </a>
-2. [DeepMesh](https://github.com/zhaorw02/DeepMesh) (ICCV' 25)
-   <a href="https://github.com/zhaorw02/DeepMesh" title="GitHub Repo">
-     <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/zhaorw02/DeepMesh.svg?style=social" alt="Stars">
-   </a>
-3. [MeshMosaic](https://github.com/Xrvitd/MeshMosaic) (CVPR' 26)
-   <a href="https://github.com/Xrvitd/MeshMosaic" title="GitHub Repo">
-     <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/Xrvitd/MeshMosaic.svg?style=social" alt="Stars">
-   </a> 
-4. [SATO](https://github.com/Xrvitd/SATO) (SIGGRAPH' 26)
-   <a href="https://github.com/Xrvitd/SATO" title="GitHub Repo">
-     <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/Xrvitd/SATO.svg?style=social" alt="Stars">
-   </a>
-
-## UV-unwrapping
-1. [Auto-Regressive Surface Cutting](https://victorcheung12.github.io/seamgpt/) (Jun, 2025)
-2. [ArtUV: Artist-style UV Unwrapping](https://chenyg59.github.io/ArtUV/) (Sep, 2025)
-3. [SeamCrafter: Enhancing Mesh Seam Generation for Artist UV Unwrapping via Reinforcement Learning](https://chenyg59.github.io/SeamCrafter/) (Sep, 2025)
-4. [PartUV: Part-Based UV Unwrapping of 3D Meshes](https://github.com/EricWang12/PartUV) (SIGGRAPH Asia'24)
-5. [MeshTailor: Cutting Seams via Generative Mesh Traversal](https://meshtailor.github.io)
 
 ## Post-train of 3D base models
 1. [DeepMesh: Auto-Regressive Artist-Mesh Creation With Reinforcement Learning](https://github.com/zhaorw02/DeepMesh) (ICCV 2025)
