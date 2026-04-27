@@ -268,7 +268,7 @@ For texture
 3. CLIP-I(⬆)
 4. LPIPS(⬇)
 
-## Bench
+## Benchmark
 1. [HY3D-Bench](https://github.com/Tencent-Hunyuan/HY3D-Bench) <a href="https://github.com/Tencent-Hunyuan/HY3D-Bench" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/HY3D-Bench.svg?style=social" alt="Stars">
