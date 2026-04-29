@@ -178,6 +178,8 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/ubisoft/ubisoft-laforge-chord.svg?style=social" alt="Stars">
    </a>
+10. [LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows](https://lzqsd.github.io/LSRM.github.io/)
+
    
 ## Motion  - Rigging / Articulation / Dynamics with Physical Property / Animation / Simulation
 1. [Unirig](https://github.com/VAST-AI-Research/UniRig) (SIGGRAPH'25)
