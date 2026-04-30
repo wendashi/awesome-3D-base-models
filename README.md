@@ -248,6 +248,22 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
      <img src="https://img.shields.io/github/stars/ZhenglinZhou/DreamDPO.svg?style=social" alt="Stars">
    </a>
 
+## 3D Scene Generation (World Models)
+### Open source
+1. https://github.com/Tencent-Hunyuan/HY-World-2.0
+2. https://inspatio.github.io/worldfm/
+3. https://research.nvidia.com/labs/sil/projects/lyra2/
+4. https://world-grow.github.io/
+5. https://fantasy-amap.github.io/fantasy-world/
+6. https://worldgen.github.io
+
+### Closed source
+1. https://marble.worldlabs.ai/
+2. https://spaitial.ai/
+3. https://deepmind.google/models/genie/
+4. https://odyssey.ml/
+5. https://runwayml.com/
+6. https://moonlakeai.com/
 
 ## Common Metrics
 For mesh
