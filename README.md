@@ -2,7 +2,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wendashi/awesome-3D-base-models)
 
 # awesome-3D-base-models
-Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a bridge between text and images, the 3D Base Model is a bridge between text/images and 3D data. But the pipeline of 3D creation is **way more complex** than 2D creation.
+Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a bridge between text and images, the 3D Base Model is a bridge between text/images and 3D data. But the pipeline of 3D creation is **way more complex** than 2D creation. 3D base models can be categorized into 3D objects and 3D scene generation (world model).
+
+<img width="2310" height="1170" alt="image" src="https://github.com/user-attachments/assets/c42a3721-6db0-4373-bdd9-ba81a69c68a7" />
 
 
 [3D Animation Pipeline](https://www.meshy.ai/zh/blog/animation-pipeline): Modeling (Re-Topology / UV Unwrapping / Artist Mesh) → Texture (PBR) → Motion (Rigging & Skinning / Animation / Rendering / Lighting / Simulation)
