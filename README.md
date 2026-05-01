@@ -12,7 +12,8 @@ Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a brid
 <img width="2180" height="1516" alt="image" src="https://github.com/user-attachments/assets/13326113-7a83-411b-a42b-9ab995b09bbd" />
 
 ## Review
-1. [Feed-Forward-3D](https://fnzhan.com/projects/Feed-Forward-3D/) 
+1. [Feed-Forward-3D](https://fnzhan.com/projects/Feed-Forward-3D/)
+2. [Production-Ready 3D Survey](https://github.com/hitcslj/Awesome-AIGC-3D) 
 
 ## Modeling - 3D Representation
 1. [VecSet (TOG 2023)](https://github.com/1zb/3DShape2VecSet), Used by Hunyuan3D2.1, TripoSG, Step1X-3D)
