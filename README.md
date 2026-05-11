@@ -9,6 +9,7 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
 
 [3D Animation Pipeline](https://www.meshy.ai/zh/blog/animation-pipeline): Modeling (Re-Topology / UV Unwrapping / Artist Mesh) → Texture (PBR) → Motion (Rigging & Skinning / Animation / Rendering / Lighting / Simulation)
 
+Latest for May, 2026
 <img width="2180" height="1516" alt="image" src="https://github.com/user-attachments/assets/13326113-7a83-411b-a42b-9ab995b09bbd" />
 
 ## Review
