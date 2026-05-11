@@ -1,7 +1,7 @@
 [![awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wendashi/awesome-3D-base-models)
 
-# awesome-3D-base-models
+# awesome 3D Generative Models
 Similar to the 2D Base Model (such as Stable Diffusion, Flux) that builds a bridge between text and images, the 3D Base Model is a bridge between text/images and 3D data. But the pipeline of 3D creation is **way more complex** than 2D creation. 3D base models can be categorized into 3D objects and 3D scene generation (world model).
 
 <img width="2310" height="1170" alt="image" src="https://github.com/user-attachments/assets/c42a3721-6db0-4373-bdd9-ba81a69c68a7" />
