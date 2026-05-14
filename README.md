@@ -106,12 +106,12 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
       <i class="fab fa-github"></i>
       <img src="https://img.shields.io/github/stars/PKU-YuanGroup/UltraShape-1.0.svg?style=social" alt="Stars">
     </a>
-11. [Trelli2](https://github.com/microsoft/TRELLIS.2)
+11. [Trelli2](https://github.com/microsoft/TRELLIS.2) (CVPR'26)
     <a href="https://github.com/microsoft/TRELLIS.2" title="GitHub Repo">
       <i class="fab fa-github"></i>
       <img src="https://img.shields.io/github/stars/microsoft/TRELLIS.2.svg?style=social" alt="Stars">
     </a>
-12. [Pixal3D](https://github.com/TencentARC/Pixal3D)     <a href="https://github.com/TencentARC/Pixal3D" title="GitHub Repo">
+12. [Pixal3D](https://github.com/TencentARC/Pixal3D) (SIGGRAPH'26)     <a href="https://github.com/TencentARC/Pixal3D" title="GitHub Repo">
       <i class="fab fa-github"></i>
       <img src="https://img.shields.io/github/stars/TencentARC/Pixal3D.svg?style=social" alt="Stars">
     </a>
