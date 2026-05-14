@@ -111,7 +111,10 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
       <i class="fab fa-github"></i>
       <img src="https://img.shields.io/github/stars/microsoft/TRELLIS.2.svg?style=social" alt="Stars">
     </a>
-    
+12. [Pixal3D](https://github.com/TencentARC/Pixal3D)     <a href="https://github.com/TencentARC/Pixal3D" title="GitHub Repo">
+      <i class="fab fa-github"></i>
+      <img src="https://img.shields.io/github/stars/TencentARC/Pixal3D.svg?style=social" alt="Stars">
+    </a>
 
 ## Modeling - Re-topology / Artist Mesh Generation
 1. [BPT](https://github.com/tencent-hunyuan/bpt) (CVPR' 25)
