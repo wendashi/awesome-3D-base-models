@@ -40,7 +40,7 @@ Similar to the 2D Generative Model (such as Stable Diffusion, Flux) that builds 
    </a> 
 6. [(VoxSet) LATTICE: Democratize High-Fidelity 3D Generation at Scale](https://lattice3d.github.io/) (Nov, 2025)
 7. [(O-Voxel) TRELLIS.2](https://github.com/microsoft/TRELLIS.2/tree/main/o-voxel) (Dec, 2025)
-8. [Faithful Contouring](https://github.com/Luo-Yihao/FaithC) (Nov, 2025)
+8. [Faithful Contouring](https://github.com/Luo-Yihao/FaithC) (Nov, 2025 -> CVPR'26 Oral)
 9. [FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation](https://arxiv.org/abs/2603.01515) (CVPR 2026)
 
 ## Modeling - VAE For Mesh Reconstruction
